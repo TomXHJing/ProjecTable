@@ -18,6 +18,32 @@
   
 - **Node.js (Potential)**: In case there's a backend in the future, Node.js is the intended platform.
 
+## Files Map
+
+ProjecTable/
+│
+├── assets/                   # Static assets for the project
+│   ├── images/               # Images or textures used across the project
+│   └── models/               # 3D models (e.g., the desk, computer, and other objects)
+│
+├── docs/                     # Documentation and planning files
+│   ├── requirements.md       # A breakdown of features and objectives for the project
+│   └── wireframes/           # Visual mockups or sketches of your site layout and design
+│
+├── src/                      # The source code of the project
+│   ├── css/                  # Stylesheets for the project
+│   │   └── styles.css        # Main CSS file (you can have more or break them down into components)
+│   │
+│   ├── js/                   # JavaScript code for interactivity and functionality
+│   │   ├── three/            # Any specific Three.js scripts or helpers
+│   │   └── main.js           # Primary JavaScript file
+│   │
+│   └── index.html            # Main HTML entry point for your site
+│
+├── .gitignore                # Specifies files and folders ignored by Git
+│
+└── README.md                 # Project overview, setup instructions, and other details
+
 ## Setup and Installation
 
 *Currently under development.* Detailed steps for local setup and installation will be provided soon.
