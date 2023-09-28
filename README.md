@@ -18,9 +18,7 @@
   
 - **Node.js (Potential)**: In case there's a backend in the future, Node.js is the intended platform.
 
-## Files Map
-
-# ProjecTable Directory Structure
+## ProjecTable Directory Structure
 
 - **ProjecTable/**
   - **assets/** - Static assets for the project
