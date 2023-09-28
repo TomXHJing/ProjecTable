@@ -1,0 +1,29 @@
+# Node specifics
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode specifics
+.vscode/
+
+# Notepad++ specifics
+*.bak
+
+# Build output (depending on your build toolchain, this might vary)
+dist/
+build/
+
+# Environment configuration and secrets
+.env
+
+# Temporary files that might be generated during development
+*.tmp
+*.swp
+*.log
+*.pid
+*.lock
